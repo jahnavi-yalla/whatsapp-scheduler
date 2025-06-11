@@ -17,19 +17,3 @@ Modify config.json to adjust settings such as:
 - Check internet connectivity.
 - Verify that Selenium and browser drivers are correctly installed.
 🤝 Contributing
-We welcome contributions! To contribute:
-- Fork the repository.
-- Create a new branch (git checkout -b feature-branch).
-- Commit your changes (git commit -m "Added new feature").
-- Push to the branch (git push origin feature-branch).
-- Open a pull request.
-📜 License
-This project is licensed under the MIT License.
-📩 Contact
-For support or inquiries, reach out via your-email@example.com.
-
-Additional Sections You Might Want to Include:
-- Screenshots: Add images to showcase the UI.
-- API Documentation: If your scheduler has an API, document the endpoints.
-- Acknowledgments: Credit contributors or libraries used.
-Would you like me to tailor this README further based on your specific implementation? 🚀
